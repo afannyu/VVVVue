@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkjingdong"]=self["webpackChunkjingdong"]||[]).push([[777],{5777:function(n,e,r){function t(n,e,r,t,u,i){return" 购物车 "}r.r(e),r.d(e,{default:function(){return c}});var u={name:"CartListView"},i=r(3744);const a=(0,i.Z)(u,[["render",t]]);var c=a}}]);
+//# sourceMappingURL=777.27c616bf.js.map

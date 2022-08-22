@@ -1,0 +1,8 @@
+[*.{js,jsx,ts,tsx,vue}]
+indent_style = space
+# tab键为空两格
+indent_size = 2
+# 多余的空白给去除
+trim_trailing_whitespace = true
+# 每个文件最后都开启新的一行
+insert_final_newline = true
